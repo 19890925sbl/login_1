@@ -54,7 +54,7 @@ small {
 .login-box {
     padding: 1em 1em 1em 1em;
     margin: auto;
-    text-align: center;
+    text-align: left;
     display: block;
     background-color: #6f92dc;
     /*border: 1px dashed white;*/
