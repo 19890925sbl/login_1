@@ -62,10 +62,10 @@ small {
   height: auto;
 }
 
-.outer-box {
+.inner-box {
     display: block;
     margin: auto;
-    background: #6f92dc;
+    background: #6fdc73;
     border-radius: 5px;
     width: 50%;
     height: 20em;
@@ -74,12 +74,12 @@ small {
 
 #btn-login {
   display: block;
-  width: 100%;
-  height: 40px;
-  margin-top: 2.0em;
+  width: 50%;
+  height: 10px;
+  margin-top: 5.0em;
   border-radius: 4px;
-  background-color: #3366cc;
-  color: #fff;
+  background-color: #cc33b0;
+  color: rgb(255, 255, 255);
 }
 
 #btn-forgot {
