@@ -62,7 +62,7 @@ small {
   height: auto;
 }
 
-.outer-box {
+.inner-box {
     display: block;
     margin: auto;
     background: #6fdc73;
